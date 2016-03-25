@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <clip>
+            <shape>
+                <gradient android:startColor="#ff5e8ea3" android:endColor="#ff13729e" android:angle="270.0" android:centerColor="#ff32a0d2" />
+            </shape>
+        </clip>
+    </item>
+    <item>
+        <clip>
+            <bitmap android:src="@drawable/stripe_bg" android:antialias="true" android:filter="false" android:dither="false" android:tileMode="repeat"
+              xmlns:android="http://schemas.android.com/apk/res/android" />
+        </clip>
+    </item>
+</layer-list>
+<!-- From: file:/D:/Upwork/David_work/Third/RingtonesApplicationTemplate/app/src/main/res/drawable/seekbar_secprogress_bg.xml -->

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient android:startColor="#ff515151" android:endColor="#ff515151" android:angle="270.0" android:centerColor="#ff515151" />
+</shape>
+<!-- From: file:/D:/Upwork/David_work/Third/RingtonesApplicationTemplate/app/src/main/res/drawable/gradient_bg_hover.xml -->

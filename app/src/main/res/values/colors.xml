@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tabMedium">#ff3789d5</color>
+	<color name="tabDark">#ff2868a4</color>
+	<color name="tabTransparent">#ff3789d5</color>
+    <color name="listbg">#ff1e1e1e</color>
+    <color name="listitemst">#ff3789d5</color>
+    <color name="listitemen">#ffe8e8e8</color>
+    <color name="listcache">#fffefefe</color>
+    <color name="listdiv">#ff171717</color>
+    <color name="listtext">#ff1c1c1c</color>
+    <color name="white">#ffffffff</color>
+    <color name="lightwhite">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="green">#ff006400</color>
+    <color name="red">#ffff0000</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="orange">#ffff9900</color>
+    <color name="pink">#fffff8dc</color>
+    <color name="darkgrey">#ff303030</color>
+    <color name="lightblack">#ff404040</color>
+    <color name="darkorange">#fff88017</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_blue">#ff331ed7</color>
+    <color name="dark_blue">#ff1b09a0</color>
+    <color name="app_background">#ffffffff</color>
+</resources>

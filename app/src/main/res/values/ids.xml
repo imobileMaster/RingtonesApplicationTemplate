@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="iv_icon">false</item>
+    <item type="id" name="tv_title">false</item>
+    <item type="id" name="LinearLayout1">false</item>
+    <item type="id" name="txtSongName">false</item>
+    <item type="id" name="btnFavorite">false</item>
+    <item type="id" name="btnPlayPause">false</item>
+    <item type="id" name="header2">false</item>
+    <item type="id" name="arrow_up">false</item>
+    <item type="id" name="scroll">false</item>
+    <item type="id" name="tracks">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="arrow_down">false</item>
+    <item type="id" name="relativeLayoutSearch">false</item>
+    <item type="id" name="txt_search">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="LL_contentProgressBarParent">false</item>
+    <item type="id" name="progressBarParent">false</item>
+    <item type="id" name="adView">false</item>
+    <item type="id" name="splashportrait">false</item>
+</resources>

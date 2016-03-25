@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Banana Ringtones</string>
+    <string name="app_id">C123</string>
+    <string name="ringtones_text">Ringtones</string>
+    <string name="hint_apps_search">Enter contact name</string>
+    <string name="splashscreen">Splash screen</string>
+    <string name="banner_ad_unit_id">ca-app-pub-5586353482678665/9794947838</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5586353482678665/2271681035</string>
+</resources>
